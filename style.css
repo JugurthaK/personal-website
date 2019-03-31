@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Covered+By+Your+Grace|Roboto');
+html,
+body {
+  height: 100%
+}
+.logo{
+    border: 5px solid white;
+    border-radius: 100%;
+}
+.name{
+    font-family: 'Roboto', cursive;
+    font-size: 3em;
+    font-weight: bold;
+    color: white;
+}
+.btn{
+    border-radius: 10em;
+}
+.btn-white{
+    background-color: #f59c34;
+    color: white;
+    font-weight: bold;
+}
+i {
+    color: white;
+}
