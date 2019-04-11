@@ -24,3 +24,6 @@ body {
 i {
     color: white;
 }
+a:hover{
+    text-decoration: none;
+}
